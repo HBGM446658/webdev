@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMax slice"><defs></defs>
+    <g id="b">
+      <path d="M760 668 L884 668 Q876 690 850 694 L790 694 Q770 690 760 668 Z" fill="#fdfaf3"/>
+      <path d="M760 668 L884 668 L882 674 L762 674 Z" fill="#1d5fa8"/>
+      <rect x="818" y="540" width="3" height="128" fill="#3a3a3a"/>
+      <path d="M822 546 L822 660 L882 660 Z" fill="#fff8ea"/>
+      <path d="M816 556 L816 660 L772 660 Z" fill="#f4e6cf"/>
+      <path d="M822 546 L846 552 L822 560 Z" fill="#d9653b"/>
+    </g>
+    <g opacity=".28" transform="translate(0 1366) scale(1 -1)"><use href="#b"/></g></svg>

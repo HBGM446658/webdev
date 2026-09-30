@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMax slice"><defs>
+    <radialGradient id="halo"><stop offset="0" stop-color="#ffd98a" stop-opacity=".85"/>
+      <stop offset=".3" stop-color="#ffcf7a" stop-opacity=".3"/><stop offset=".65" stop-color="#ffcf7a" stop-opacity=".08"/><stop offset="1" stop-color="#ffcf7a" stop-opacity="0"/></radialGradient>
+    <clipPath id="skyOnly"><rect width="1600" height="575"/></clipPath>
+    <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff0c2"/><stop offset="1" stop-color="#ffc35c"/></linearGradient></defs><g clip-path="url(#skyOnly)"><g class="sun"><circle cx="800" cy="500" r="340" fill="url(#halo)"/><circle cx="800" cy="500" r="68" fill="url(#disc)"/></g></g></svg>
